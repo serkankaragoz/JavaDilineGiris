@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
 
         // Polymorphism: Bir nesnenin, miras aldigi siniftaki esneler gbi kullanilabilmesini saglar.
-
         Animal animal = new Animal("Hayvan");
         animal.makeSound();
 
