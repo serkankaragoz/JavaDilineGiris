@@ -4,7 +4,7 @@ import paket2.Mathematic;
 public class Main {
     public static void main(String[] args) {
         System.out.println(Mathematic.hypotenus(5, 12));
-        // Mathematic nesnesi baska bir pakette oldugu icin
+        // Mathematic sinifi baska bir pakette oldugu icin
         // import paket2.Mathematic; yazarak bu paketteki bir sinifi kullancagimizi
         // belirtmemiz gerekir.
 

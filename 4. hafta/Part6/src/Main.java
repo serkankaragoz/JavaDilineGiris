@@ -5,7 +5,7 @@ public class Main {
        // Collections
 
         // Koleksiyonlar birden fazla veri tipini ayni degisken altinda toplamamizi saglar.
-        // Her koleksiyonun farkli bir islevi vardir.
+        // Her koleksiyonun farkli bir islevi veya veriyi organize etme sekli vardir.
 
         // ArrayList nesnesi arraylerin gelismis halidir.
         // Arrayler gibi eleman sayisi sabit degildir ve ekleme, cikarma, bir nesnenin varligini
